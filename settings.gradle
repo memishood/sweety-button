@@ -1,0 +1,3 @@
+include ':sweetybutton'
+include ':app'
+rootProject.name = "SweetyButtonSample"
